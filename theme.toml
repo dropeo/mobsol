@@ -1,6 +1,6 @@
-name = "Blist"
+name = "Blisst"
 license = "MIT"
-licenselink = "https://github.com/apvarun/blist-hugo-theme/blob/master/LICENSE"
+licenselink = "https://github.com/apvarun/blisst-hugo-theme/blob/master/LICENSE"
 description = "Blist is a clean and fast blog theme for your Hugo site."
 homepage = "https://github.com/apvarun/blist"
 demosite = "https://blist.vercel.app"
